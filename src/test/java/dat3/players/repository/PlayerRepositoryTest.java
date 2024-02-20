@@ -32,6 +32,7 @@ class PlayerRepositoryTest {
         assertEquals(3, playerRepository.count());
     }
 
+
     public void alwaysFail() {
         assertTrue(false);
     }
