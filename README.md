@@ -1,0 +1,1 @@
+[![Build and deploy JAR app to Azure Web App - playersapp](https://github.com/MadsFolkmann/players/actions/workflows/master_playersapp.yml/badge.svg)](https://github.com/MadsFolkmann/players/actions/workflows/master_playersapp.yml)
